@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KJM94
-- 👀 I’m interested in ... Video Game Tableau
+- 👀 I’m interested in ... Tableau
 - 🌱 I’m currently learning ... C++ R python Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
