@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @KJM94
-- 👀 I’m interested in ... Tableau
-- 🌱 I’m currently learning ... C++ R python Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 ### Hi there 👋
  - 💻   **I'm a student**
  - 🇰🇷  **I'm live in South Korea**
