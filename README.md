@@ -1,5 +1,5 @@
 ### Hi there 👋
- - 💻   **I'm a student**
+ - 💻   **I'm a tech**
  - 🇰🇷  **I'm live in South Korea**
 
 ### How to reach me? 🤔
