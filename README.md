@@ -1,5 +1,5 @@
 ### Hi there 👋
- - 💻   **I'm a tech**
+ - 💻   **I'm a engineer**
  - 🇰🇷  **I'm live in South Korea**
 
 ### How to reach me? 🤔
@@ -8,3 +8,6 @@
 - **Jung-Min's Tableau ...** https://public.tableau.com/profile/.75992107#!/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjm94&show_icons=true&theme=cobalt)
+
+2021. 11 . 8 ~ 
+raohn entertainment
