@@ -1,5 +1,5 @@
 ### Hi there 👋
- - 💻   **I'm a engineer**
+ - 💻   **I'm a Data engineer**
  - 🇰🇷  **I'm live in South Korea**
 
 ### How to reach me? 🤔
