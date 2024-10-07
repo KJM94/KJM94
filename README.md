@@ -5,7 +5,6 @@
 ### How to reach me? 🤔
 - 📮  **Jung-Min's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjmin0807@gmail.com)](mailto:kjmin0807@gmail.com)
 - 📒  **Jung-Min's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://kjm94.github.io/)](https://kjm94.github.io/)
-- **Jung-Min's linkedin ...** https://www.linkedin.com/in/kjmin0807/
 - **Jung-Min's 2021.11.08 ~ 2024.02.29  ...** Rhaon Entertainment http://www.rhaon.co.kr/
 
 
